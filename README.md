@@ -1,7 +1,9 @@
 ```markdown
 # The Writer
 
-The Writer is a web-based text editor application built using Flask, PyWebView, and Quill.js. It provides a user-friendly interface for creating, editing, and saving text documents with various formatting options. This application was made with the assistance of Claude, an AI assistant created by Anthropic.
+The Writer is a web-based text editor application built using Flask, PyWebView, and Quill.js.
+It provides a user-friendly interface for creating, editing, and saving text documents with various formatting options.
+This application was made with the assistance of Claude, an AI assistant created by Anthropic.
 
 ## Features
 
